@@ -20,4 +20,9 @@ npm run dev
 
 ### Output:
 
-Start of the quiz web app
+Start of the Fusion Meals web app.
+
+![Start web page](https://github.com/Rexon-Pambujya/mealsDeliveryWebapp/blob/main/images/Image1.png)
+
+Snap Shot of the Cart.
+![Start web page](https://github.com/Rexon-Pambujya/mealsDeliveryWebapp/blob/main/images/Image2.png)
